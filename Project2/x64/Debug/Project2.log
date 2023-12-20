@@ -1,0 +1,14 @@
+﻿  main.c
+E:\Project\New\Visual stadio\Project2\Project2\main.c(9,38): warning C4133: 'function': incompatible types - from 'WIN32_FIND_DATA *' to 'LPWIN32_FIND_DATAA'
+E:\Project\New\Visual stadio\Project2\Project2\main.c(35,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  E:\Project\New\Visual stadio\Project2\Project2\main.c(35,10):
+  consider using '%ls' in the format string
+  E:\Project\New\Visual stadio\Project2\Project2\main.c(35,10):
+  consider using '%lls' in the format string
+  E:\Project\New\Visual stadio\Project2\Project2\main.c(35,10):
+  consider using '%Ls' in the format string
+  E:\Project\New\Visual stadio\Project2\Project2\main.c(35,10):
+  consider using '%ws' in the format string
+  
+E:\Project\New\Visual stadio\Project2\Project2\main.c(36,32): warning C4133: 'function': incompatible types - from 'WIN32_FIND_DATA *' to 'LPWIN32_FIND_DATAA'
+  Project2.vcxproj -> E:\Project\New\Visual stadio\Project2\x64\Debug\Project2.exe
